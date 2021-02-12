@@ -1,0 +1,74 @@
+body{
+    margin: 0;
+    text-align:center;
+    font-family: 'Merriweather', serif;
+/*What happens is if the browser is incompatiable 
+    with verdana then it automatically changes to sans-serif*/
+}
+h1{
+    color:#66BFBF;
+    font-size:5.625rem;
+    margin-top:50px auto 0px auto;
+    font-family: 'Sacramento', cursive;
+
+}
+h2{
+    color:#66BFBF;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: normal;
+    font-size:2.5rem;
+}
+h3{
+    color:#11999E;
+    font-family: 'Montserrat', sans-serif;
+}
+.top-container{
+    background-color:#e4f9f5 ;
+    padding-top:100px;
+}
+.middle-container{
+    
+
+}
+.bottom-container{
+   
+}
+.skill-row{
+    width:50%;
+    margin:100px auto;
+    text-align:left;
+    line-height:2;
+}
+.top-cloud{
+    position:relative;
+    left:300px;
+}
+.bottom-cloud{
+    position: absolute;
+    left:150px;
+    padding-bottom:100px;
+}
+.my-photo{
+    border-radius:100%;
+}
+a{
+    color:#11999E;
+}
+.dsa-img{
+    width:25%;
+    float:left;
+    margin-right:30px;
+    clear:both;
+}
+.web-img{
+    width:25%;
+    float:left;
+    margin-right:30px;
+    clear:both;
+}
+.ml-img{
+    width:25%;
+    float:left;
+    margin-right:30px;
+    clear:both;
+}
